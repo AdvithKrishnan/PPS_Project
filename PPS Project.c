@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <conio.h>
+
 void main()
 {
 	int yyyy,dd,mm,nleap,count,scount,i=1;
