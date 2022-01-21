@@ -5,7 +5,7 @@ void main()
 {
 	int yyyy,dd,mm,nleap,count,scount,i=1;
 	long int dp;
-		printf("\n\nNote - If you have entered an invalid month(mm) input,you will be allowed to input a new one\n\n\n");
+		printf("\n\nNote - If you have entered an invalid month (mm) input, you will be allowed to input a new one\n\n\n");
 	do
 	{
 		printf("\nEnter the year (yyyy) : ");
